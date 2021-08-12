@@ -135,6 +135,7 @@ button:hover{
 
 body{
     background: url(./images/bg-header-desktop.png) top no-repeat;
+    background-size: contain;
 }
 .main{
     padding: 5rem;
